@@ -1,6 +1,6 @@
 {
   "images": {
-    "Imageone": "Imagethree",
-    "Imagetwo": "Imagefour"
+    "imageThree": "Imagethree",
+    "imageFour": "Imagefour"
   }
 }
